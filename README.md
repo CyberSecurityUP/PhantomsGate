@@ -39,3 +39,7 @@ PhantomGate is an improvement over LiesGate, adding the ability to dynamically m
 ## License
 
 This project is licensed under the MIT License.
+
+### Based Techniques On
+1. (LiesGate Implementation)[https://github.com/CyberSecurityUP/LiesGate]
+2. (MutationsGate Implementation)[https://github.com/senzee1984/MutationGate]
