@@ -2,7 +2,7 @@
 
 ## Introduction
 
-LiesGate is a sophisticated shellcode injection technique that leverages Hell's Gate to dynamically find syscall numbers, modifies system calls, and uses thread hijacking to inject and execute shellcode within a target process. This technique is designed to evade detection and bypass security mechanisms by dynamically resolving syscall numbers and executing shellcode in the context of existing threads.
+PhantomsGate is a sophisticated shellcode injection technique that leverages Hell's Gate to dynamically find syscall numbers, modifies system calls, and uses thread hijacking to inject and execute shellcode within a target process. This technique is designed to evade detection and bypass security mechanisms by dynamically resolving syscall numbers and executing shellcode in the context of existing threads.
 
 ## PhantomGate: Enhanced LiesGate Technique
 
